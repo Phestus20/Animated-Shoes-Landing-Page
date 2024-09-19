@@ -1,4 +1,4 @@
-# Nike Product Showcase Landing Page
+# Nike Shoes Showcase Landing Page
 
 This project is a responsive and interactive landing page showcasing Nike shoes. It features a sleek design with a slider mechanism to display different shoe models, along with detailed information and image galleries.
 
